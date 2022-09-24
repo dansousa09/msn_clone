@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "msn_clone",
+    "slug": "msn_clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
